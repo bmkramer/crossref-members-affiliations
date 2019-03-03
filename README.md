@@ -4,7 +4,7 @@ Open science greatly benefits from the open availability of metadata on research
 
 Affiliation data, while very useful for such analyses, are not yet provided by all Crossref members,and where they are included, they are in free-text format which makes usability limited. The current https://www.ror.community/ROR (Research  
 
-Crossref Participation Reports give an overview of the coverage of 10 selected metadata fields per member. Even though affiliation data are not included in these reports, Crossref does include information on coverage of affiliation data in the metadata they provide for each member via the Crossref REST API. 
+[Crossref Participation Reports](https://www.crossref.org/members/prep/) give an overview of the coverage of 10 selected metadata fields per member. Even though affiliation data are not included in these reports, Crossref does include information on coverage of affiliation data in the metadata they provide for each member via the Crossref REST API. 
 
 This script uses the Crossref REST API to get information on the presence of affiliation information 
 in metadata of all current research output and  current journal articles of each Crossref member (n=12238 as of Feb 28, 2019) 
