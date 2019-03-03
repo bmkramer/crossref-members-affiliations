@@ -1,5 +1,4 @@
-# crossref-members-affiliations
-Coverage of affiliation data in Crossref
+# Coverage of affiliation data in Crossref
 
 Open science greatly benefits from the open availability of metadata on research output. Crossref members make a variety of metadata openly available to the research community. This facilitates analyzing and linking of research output, either by directly analyzing Crossref data or by integrating Crossref data in third-party applications. 
 
