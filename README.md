@@ -9,5 +9,5 @@ Meanwhile, it is interesting to look at which members currently already provide 
 Therefore, I used an R-script ([Crossref_members_affiliations.R](/Crossref_members_affiliations.R)) to query the Crossref REST API for information on the proportion of current research output and  current journal articles per Crossref member (n=12238 as of Feb 28, 2019) that include affiliation information in their metadata.  
 NB 'Current' is defined by Crossref as the current year plus the two full preceding years. 
 
-##Results
+## Results
 The csv-file [Crossref_members_affiliations_1-12238.csv](/Crossref_members_affiliations_1-12238.csv) lists the results for all Crossref members. The table below gives the 20 members with the m
