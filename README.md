@@ -10,4 +10,4 @@ Therefore, I used an R-script ([Crossref_members_affiliations.R](/Crossref_membe
 NB 'Current' is defined by Crossref as the current year plus the two full preceding years. 
 
 ## Results
-The csv-file [Crossref_members_affiliations_1-12238.csv](/Crossref_members_affiliations_1-12238.csv) lists the results for all Crossref members. The table below gives the 20 members with the m
+The csv-file [Crossref_members_affiliations_1-12238.csv](/Crossref_members_affiliations_1-12238.csv) lists the results for all Crossref members.
